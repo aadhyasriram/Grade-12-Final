@@ -1,5 +1,6 @@
 import javax.swing.*;
 public class Main extends JFrame{
+    static public Integer screen;
     public static void main(String[] args) {
         JFrame frame = new JFrame("Physics Sim");
         Main panel = new Main();
